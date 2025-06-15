@@ -18,9 +18,6 @@ You can follow my growth by checking the daily commits and updates in this repos
 
 ---
 
-
----
-
 ## ✅ Topics Covered (so far)
 
 - [x] Boilerplate
