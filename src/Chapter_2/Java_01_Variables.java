@@ -10,7 +10,7 @@ public class Java_01_Variables {
         // Printing it
         System.out.println("The value of a is " + a);
 
-        // There are a lot of Data Types exists in Java
+        // There are a lot of other Data Types exists in Java
         /*
         Integer (int)
         LongInteger (long) - Write 'L' in the end of the LongInteger variable
