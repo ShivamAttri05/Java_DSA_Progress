@@ -21,7 +21,7 @@ You can follow my growth by checking the daily commits and updates in this repos
 ## ✅ Topics Covered (so far)
 
 - [x] Boilerplate
-- [ ] Variables, Input, Output
+- [x] Variables, Input, Output
 - [ ] Operators
 - [ ] If-Else and Switch Statement
 - [ ] Loops and its types
