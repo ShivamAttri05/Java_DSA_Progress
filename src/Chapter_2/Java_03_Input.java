@@ -9,5 +9,6 @@ public class Java_03_Input {
         int num = sc.nextInt();
 
         System.out.println("User entered the number: " + num);
+        sc.close();
     }
 }
