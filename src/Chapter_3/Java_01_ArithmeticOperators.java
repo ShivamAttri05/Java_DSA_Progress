@@ -15,5 +15,6 @@ public class Java_01_ArithmeticOperators {
         System.out.println("Division: " + (num1 / num2));
         System.out.println("Multiplication: " + (num1 * num2));
         System.out.println("Modulo (Remainder): " + (num1 % num2));
+        sc.close();
     }
 }
