@@ -25,6 +25,7 @@ You can follow my growth by checking the daily commits and updates in this repos
 
 - [x] Boilerplate
 - [ ] Variables, Input, Output
+- [ ] Operators
 - [ ] If-Else and Switch Statement
 - [ ] Loops and its types
 - [ ] Arrays
