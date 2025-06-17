@@ -24,7 +24,7 @@ You can follow my growth by checking the daily commits and updates in this repos
 - [x] Variables, Input, Output
 - [x] Operators
 - [x] If-Else and Switch Statement
-- [ ] Loops and its types
+- [x] Loops and its types
 - [ ] Arrays
 - [ ] Strings
 - [ ] Recursion
