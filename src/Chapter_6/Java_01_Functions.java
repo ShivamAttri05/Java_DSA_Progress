@@ -1,6 +1,16 @@
 package Chapter_6;
 
 public class Java_01_Functions {
+    // Function is a block of code which can be reused
+
+    // Syntax
+    /*
+    returnType name(){
+        //body
+        return statement;
+    }
+    */
+
     // method definition
     static int add(int a, int b) {
         return a + b;
