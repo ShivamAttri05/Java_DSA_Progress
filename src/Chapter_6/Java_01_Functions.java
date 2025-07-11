@@ -5,10 +5,10 @@ public class Java_01_Functions {
 
     // Syntax
     /*
-    returnType name(){
-        //body
-        return statement;
-    }
+    *returnType name(){
+    *   //body
+    *   return statement;
+    *}
     */
 
     // method definition
