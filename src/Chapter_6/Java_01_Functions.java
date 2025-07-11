@@ -12,7 +12,7 @@ public class Java_01_Functions {
     */
 
     // method definition
-    static int add(int a, int b) {
+    public static int add(int a, int b) {
         return a + b;
     }
 
