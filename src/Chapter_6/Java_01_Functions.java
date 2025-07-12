@@ -18,6 +18,6 @@ public class Java_01_Functions {
 
     public static void main(String[] args) {
         int result = add(5, 3);  // method call
-        System.out.println(result);  // 8
+        System.out.println("Sum is "+result);  // 8
     }
 }

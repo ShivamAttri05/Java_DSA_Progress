@@ -28,7 +28,7 @@ public class Java_02_TypesOfFunction {
         System.out.println("Square of " + num + " is: " + square);
 
         // Calling another user-defined function to greet a user
-        String name = "Alice";
+        String name = "Shivam";
         printGreeting(name); // Calling user-defined function
     }
 
