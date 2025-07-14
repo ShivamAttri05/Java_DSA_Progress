@@ -4,6 +4,15 @@ public class Java_06_CheckPrime {
 
     public static boolean isprime(int n) {
         boolean isPrime = true;
+
+        if (n == 1){
+            return isPrime;
+        }
+
+        if (n == 2){
+            return isPrime;
+        }
+
         for (int i = 2; i<=n-1; i++){
             if(n%i == 0){
                 isPrime = false;
@@ -14,9 +23,9 @@ public class Java_06_CheckPrime {
     }
 
     public static void main(String[] args) {
-        System.out.println(isprime(12));
-        System.out.println(isprime(3));
-        System.out.println(isprime(2));
         System.out.println(isprime(1));
+        System.out.println(isprime(2));
+        System.out.println(isprime(3));
+        System.out.println(isprime(4));
     }
 }
