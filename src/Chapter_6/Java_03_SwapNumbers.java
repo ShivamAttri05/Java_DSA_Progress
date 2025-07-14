@@ -10,7 +10,7 @@ public class Java_03_SwapNumbers {
         System.out.println("The Value of a is " + a);
         System.out.println("The Value of b is " + b);
     }
-    
+
     public static void main(String[] args) {
         swap(2,3);
     }
