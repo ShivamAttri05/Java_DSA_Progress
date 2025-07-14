@@ -1,16 +1,16 @@
 package Chapter_6;
 
-public class Java_06_CheckPrime {
+public class Java_07_CheckPrime {
 
     public static boolean isprime(int n) {
         boolean isPrime = true;
 
         if (n == 1){
-            return isPrime;
+            return true;
         }
 
         if (n == 2){
-            return isPrime;
+            return true;
         }
 
         for (int i = 2; i<=n-1; i++){
